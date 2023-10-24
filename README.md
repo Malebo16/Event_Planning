@@ -48,12 +48,5 @@ Done.
 # Room for improvement
 
 ## Acknowledgement
-Precious Matea
-
-Hlalala Eddie
-
-Maxwell Makinana
-
-Vunene Mabasa
 
 Malebo Phosa
